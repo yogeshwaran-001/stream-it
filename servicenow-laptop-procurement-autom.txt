@@ -1,0 +1,21 @@
+servicenow-laptop-procurement-automation/
+│
+├── README.md
+├── LICENSE
+│
+├── docs/
+│   ├── project-abstract.md
+│   ├── system-architecture.md
+│   └── workflow-design.md
+│
+├── flow-designer/
+│   └── laptop-order-flow.md
+│
+├── scripts/
+│   ├── approval-script.js
+│   └── order-processing.js
+│
+└── screenshots/
+    ├── service-catalog.png
+    ├── flow-designer.png
+    └── approval-workflow.png
